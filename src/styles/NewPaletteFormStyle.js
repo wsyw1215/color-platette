@@ -1,4 +1,7 @@
-import { DRAWER_WIDTH , NAVBAR_HEIGHT} from '../constant'
+import {
+    DRAWER_WIDTH,
+    NAVBAR_HEIGHT
+} from '../constant'
 const drawerWidth = DRAWER_WIDTH;
 const navHeight = NAVBAR_HEIGHT;
 const styles = theme => ({
